@@ -12,6 +12,8 @@ typing_extensions==4.6.1
 
 tzdata==2023.3
 
+gunicorn==20.1.0
+
 
 
 
