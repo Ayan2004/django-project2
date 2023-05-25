@@ -1,1 +1,1 @@
-web:gunicorn 'project7.wsgi'
+web: gunicorn 'project7.wsgi'
